@@ -1,0 +1,8 @@
+Ajay::Gupta:UG:10CS20010:Algorithms,AI,Networks:75,80,85
+Abhik::Das:UG:10MA20012:Algorithms,OS,Networks,ML:70,90,80
+Riya::Sinha:UG:10CS20013:OS,Networks,ML:85,70,80
+Alok:Kumar:Roy:PG:10CS60014:OS,ML,AI:70,70,75
+Arvind::Srinivasan:PG:10MA60012:Algorithms,OS,ML:80,70,75
+Gautam::Kumar:PG:10MA60024:Algorithms,AI:70,75
+Anusha:V:Pillai:RS:09MA10001:Networks,AI:75,70
+Ashok:Lal:Gupta:RS:09CS10013:Algorithms,ML:80,85
