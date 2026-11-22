@@ -1,5 +1,6 @@
-.github/workflows
-!/.github/**
-!/INDEX.md
-!/README.md
+/*
+!/notes/
+!/notes/**
+!/papers/
+!/papers/**
 !/.gitignore
